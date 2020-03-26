@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * 
+ * @author Leon Tabak
+ * @version 26 March 2020
+ */
 public class Means {
 
     private static final Random RNG = new Random();
